@@ -1,0 +1,9 @@
+pacpage oop;
+
+public class printt{
+  public static void main(String[]args){
+    system.out.println("Selamat datang di OOP(Object Oriented Programming)"
+      +"Nama : Widiastuti\n"
+      +"Nim : 17090070");
+  }
+}
